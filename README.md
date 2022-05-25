@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **C#, Python, Microsoft Azure, Power Platform**
 
+- 💻 I've always been an enthusiast of all things tech. Mainly computers, but also videogames, software in general, smartphones, laptops...
+
 - 📫 How to reach me **jesuscorralesguillen@gmail.com**
 
 ## Connect with me:
