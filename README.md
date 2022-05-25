@@ -8,8 +8,8 @@
 ## Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/jesus-jcg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus-jcg" height="30" width="40" /></a>
-**jesuscorralesguillen@gmail.com**
 </p>
+**jesuscorralesguillen@gmail.com**
 
 ## Languages and Tools:
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
