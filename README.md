@@ -1,7 +1,7 @@
 # Hi there, I'm Jesus 👋
 ## A passionate developer in training from Spain
 
-- 🌱 I’m currently learning **C#, Pytho, Microsoft Azure, Power Platform**
+- 🌱 I’m currently learning **C#, Python, Microsoft Azure, Power Platform**
 
 - 📫 How to reach me **jesuscorralesguillen@gmail.com**
 
