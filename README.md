@@ -1,5 +1,5 @@
 # Hi there, I'm Jesus 👋
-## A passionate developer in training from Spain
+## A passionate developer from Spain
 
 - 🌱 I’m currently learning **C#, Python, Microsoft Azure, Power Platform**
 
