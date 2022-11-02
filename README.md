@@ -1,7 +1,7 @@
 # Hi there, I'm Jesus 👋
 ## A passionate developer from Spain
 
-- 🌱 I’m currently learning **C#, Python, Microsoft Azure, Power Platform**
+- 🌱 Currently going deeper with Java!**
 
 - 💻 I've always been an enthusiast of all things tech. 
 
