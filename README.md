@@ -1,7 +1,5 @@
 # Hi there, I'm Jesus 👋
-## A passionate developer from Spain
-
-- 🌱 Currently going deeper with Java!
+## 🌱 Learning web development!
 
 - 💻 I've always been an enthusiast of all things tech. 
 
