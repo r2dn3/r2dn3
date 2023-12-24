@@ -12,5 +12,5 @@
 
 ## Languages and Tools:
 <p align="left"> 
-  [![My Skills](https://skillicons.dev/icons?i=php,js,java,html,css,azure,github,)](https://skillicons.dev)]
+  [![My Skills](https://skillicons.dev/icons?i=php,js,java,html,css,azure,github)](https://skillicons.dev)
 </p>
