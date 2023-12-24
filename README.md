@@ -1,5 +1,6 @@
-# Hi there, I'm Jesus 👋
-## 🌱 Learning web development! Following both <a hreft="https://www.theodinproject.com/">The Odin Project</a> and official training in PHP and JavaScript!
+# Hi there, I'm Jesús 👋
+## 🌱 Learning web development! 
+##Following both <a hreft="https://www.theodinproject.com/">The Odin Project</a> and official training in PHP and JavaScript!
 
 - 💻 I've always been an enthusiast of all things tech. 
 
