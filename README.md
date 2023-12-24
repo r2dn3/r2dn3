@@ -11,6 +11,9 @@
 **jesuscorralesguillen@gmail.com**
 
 ## Languages and Tools:
-<p align="left"> 
-  [![My Skills](https://skillicons.dev/icons?i=php,js,java,html,css,azure,github)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,java,html,css,azure,github" />
+  </a>
 </p>
